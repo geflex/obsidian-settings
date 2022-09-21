@@ -12,5 +12,6 @@
   "obsidian-admonition",
   "breadcrumbs",
   "folder-note-plugin",
-  "homepage"
+  "homepage",
+  "obsidian-vimrc-support"
 ]
