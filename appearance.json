@@ -3,5 +3,6 @@
   "cssTheme": "Blue Topaz",
   "translucency": false,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false
 }

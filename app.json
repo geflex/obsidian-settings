@@ -39,5 +39,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "mobilePullAction": "command-palette:open"
+  "mobilePullAction": "command-palette:open",
+  "showInlineTitle": true
 }
