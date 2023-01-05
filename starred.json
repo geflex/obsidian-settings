@@ -2,8 +2,53 @@
   "items": [
     {
       "type": "search",
+      "title": "-\"- type\" -\"- categories\" file:.md",
+      "query": "-\"- type\" -\"- categories\" file:.md"
+    },
+    {
+      "type": "search",
       "title": "-\"- categories\" file:.md",
       "query": "-\"- categories\" file:.md"
+    },
+    {
+      "type": "search",
+      "title": "-\"- type\" file:.md",
+      "query": "-\"- type\" file:.md"
+    },
+    {
+      "type": "search",
+      "title": "-section:(__meta__)",
+      "query": "-section:(__meta__)"
+    },
+    {
+      "type": "search",
+      "title": "file:(/[а-я]+/)",
+      "query": "file:(/[а-я]+/)"
+    },
+    {
+      "type": "file",
+      "title": "Me",
+      "path": "Me.md"
+    },
+    {
+      "type": "file",
+      "title": "Russian language",
+      "path": "Russian language.md"
+    },
+    {
+      "type": "file",
+      "title": "Vault quality",
+      "path": "My vault.md"
+    },
+    {
+      "type": "file",
+      "title": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "type": "file",
+      "title": "PostgreSQL",
+      "path": "PostgreSQL.md"
     }
   ]
 }
