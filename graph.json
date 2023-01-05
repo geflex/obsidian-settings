@@ -1,9 +1,9 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:(Excalidraw OR _templates OR _attachments) -file:(music genre)",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 12.4786324786325,
   "linkStrength": 0.769230769230769,
   "linkDistance": 195,
-  "scale": 0.13873223932666204,
+  "scale": 0.27268599173601044,
   "close": false
 }
