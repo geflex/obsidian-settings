@@ -17,5 +17,6 @@
   "meld-encrypt",
   "obsidian-annotator",
   "dataview",
-  "obsidian-metatable"
+  "obsidian-metatable",
+  "obsidian-shellcommands"
 ]
