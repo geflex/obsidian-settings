@@ -1,6 +1,5 @@
 [
   "smart-random-note",
-  "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-dangling-links",
   "buttons",
@@ -18,5 +17,7 @@
   "obsidian-annotator",
   "dataview",
   "obsidian-metatable",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-advanced-uri",
+  "templater-obsidian"
 ]
