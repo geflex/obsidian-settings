@@ -29,8 +29,6 @@
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
-  "gridHeatmap": false,
-  "heatmapColour": " #53aaf5",
   "hierarchyNotes": [
     ""
   ],
@@ -140,5 +138,7 @@
     "cousinsIsSibling": false
   },
   "refreshOnNoteSave": false,
-  "showUpInJuggl": false
+  "showUpInJuggl": false,
+  "gridHeatmap": false,
+  "heatmapColour": " #53aaf5"
 }
